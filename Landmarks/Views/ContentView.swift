@@ -10,7 +10,7 @@ import SwiftUI
 struct ContentView: View {
     var body: some View {
         LandmarkList()
-    }
+    }//git 실험중입니다
 }
 
 struct ContentView_Previews: PreviewProvider {
