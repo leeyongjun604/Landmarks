@@ -31,7 +31,7 @@ struct LandmarkList: View {
                         LandmarkRow(landmark: landmark)
                     }
                 }
-            }
+            } //이런데 수정하면 진짜 모를걸
             .navigationTitle("Landmarks")
         }
     }
